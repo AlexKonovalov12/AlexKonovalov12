@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander!
-- 👀 I’m interested in books, films, music, snowboarding)
+- 👀 I’m interested in books, films, music, snowboarding
 - 🌱 I’m currently learning HTML, CSS, JS, PHP!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- https://t.me/alexdefacto
