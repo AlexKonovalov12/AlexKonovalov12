@@ -1,10 +1,8 @@
-- 👋 Hi, I’m Alexander!
-- 👀 I’m interested in books, films, music, snowboarding
-- 🌱 I’m currently learning HTML, CSS, JS, PHP!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- https://t.me/alexdefacto
+## Коновалов Александр
+- **Telegram:** https://t.me/alexdefacto
+- **E-mail:** alexkon94@yandex.ru
 
-<!---
-AlexKonovalov12/AlexKonovalov12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Hard skills
+- **Технологии и инструменты:** HTML, CSS, Sass/SCSS, Babel, EsLint, WebPack, git;
+- **Языки программирования:** JavaScript, PHP;
+- **Фреймворки:** React, Laravel;
