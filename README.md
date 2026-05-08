@@ -1,5 +1,5 @@
 # 💫 Обо мне:
-Привет!<br>Меня зовут Александр.<br>Работаю Frontend разработчиком в компании Responsible Gambler USA
+Привет!<br>Меня зовут Александр.<br>Работаю Frontend разработчиком в компании XON Development
 
 
 # 💻 Hard skills:
